@@ -1,0 +1,9 @@
+[package]
+name = "socks"
+version = "0.1.0"
+authors = ["Tao Qingyun <taoqy@ls-a.me>"]
+edition = "2018"
+
+
+[dependencies]
+async-std = "1.10.0"
